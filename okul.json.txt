@@ -1,0 +1,18 @@
+{"mersin":[
+{
+"isim":"cezerye",
+"aciklama": "havuçlu tatlıdır.",
+"fotourl":https://github.com/sifahatun33/githubmersin/blob/main/cezerye.png/raw
+},
+{ 
+"isim":"kerebic",
+"aciklama": "irmikli tatlıdır.",
+"fotourl":https://github.com/sifahatun33/githubmersin/blob/main/kerebic.jpg/raw
+},
+{ 
+"isim":"tantuni",
+"aciklama": "etli yemek.",
+"fotourl":https://github.com/sifahatun33/githubmersin/blob/main/tantuni.jpg/raw
+}
+
+ ]}
